@@ -23,64 +23,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <file leaf-file-name="chore.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/chore.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="28" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+            <state line="6" column="21" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
+      <file leaf-file-name="chore_type.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/chore_type.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="38" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+            <state line="9" column="101" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <file leaf-file-name="20111210101303_create_chore_types.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20111210101303_create_chore_types.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.664966">
+            <state line="4" column="14" selection-start="137" selection-end="137" vertical-scroll-proportion="0.11564626">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20111210074248_set_default_paid.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20111210074248_set_default_paid.rb">
+      <file leaf-file-name="20111210101121_create_chores.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20111210101121_create_chores.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="49" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+            <state line="3" column="24" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <file leaf-file-name="house.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/house.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="6" selection-start="190" selection-end="190" vertical-scroll-proportion="-5.230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="89" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="expense.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/expense.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="20" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+            <state line="8" column="28" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,10 +78,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/models/house.rb" />
         <option value="$PROJECT_DIR$/app/views/houses/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
@@ -110,6 +89,11 @@
         <option value="$PROJECT_DIR$/db/migrate/20111210081431_add_payments.rb" />
         <option value="$PROJECT_DIR$/app/models/expense.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20111210101121_create_chores.rb" />
+        <option value="$PROJECT_DIR$/app/models/house.rb" />
+        <option value="$PROJECT_DIR$/app/models/chore.rb" />
+        <option value="$PROJECT_DIR$/app/models/chore_type.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20111210101303_create_chore_types.rb" />
       </list>
     </option>
   </component>
@@ -539,48 +523,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20111210063913_add_house_to_users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="93" selection-start="114" selection-end="114" vertical-scroll-proportion="0.14455782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20111210070331_create_expenses.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="109" selection-start="233" selection-end="233" vertical-scroll-proportion="0.35789475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/houses/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="23" selection-start="245" selection-end="245" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/house.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="103" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20111210073532_add_paid_to_expense.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20111210074248_set_default_paid.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="49" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
@@ -618,7 +560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="89" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+        <state line="6" column="89" selection-start="350" selection-end="350" vertical-scroll-proportion="0.1734694">
           <folding />
         </state>
       </provider>
@@ -639,14 +581,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/expense.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="20" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+        <state line="3" column="20" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0867347">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.664966">
+        <state line="23" column="25" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20111210093010_create_payments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="132" selection-end="132" vertical-scroll-proportion="0.23129252">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20111210101121_create_chores.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="24" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/house.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="28" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/chore.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="21" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/chore_type.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="101" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20111210101303_create_chore_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="137" selection-end="137" vertical-scroll-proportion="0.11564626">
           <folding />
         </state>
       </provider>
